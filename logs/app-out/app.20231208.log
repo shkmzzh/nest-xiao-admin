@@ -1,0 +1,5 @@
+{"date":"2023-12-08T16:35:20.914","level":"INFO","category":"default","host":"xz","pid":"14612","data":'main.ts(line: 96, column: 10): 
+ [32mNest-Admin 服务启动成功 [39m 
+ [32m上传文件存储路径[39m         F:\Code\XiaoAdmin\upload 
+ [32m服务地址[39m                 http://localhost:8081/api/ 
+ [32mswagger 文档地址        [39m http://localhost:8081/api/docs/'}
